@@ -5,5 +5,7 @@ anime.download_video('https://animego.org/anime/nepriznannyy-shkoloy-vladyka-dem
 
 
 В начале это Ссылка на видео из сайта animeGO https://animego.org
+
 Потом идёт эпизод в данном случае 6 серия 
+
 а в конце это правило будет ли программа скачивать только звук из аниме
